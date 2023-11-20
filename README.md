@@ -1,3 +1,3 @@
 # etch-a-sketch
 
-A prject something between a skethpad and and Etch-A=Sketch.
+A project something between a sketchpad and and Etch-A-Sketch.
